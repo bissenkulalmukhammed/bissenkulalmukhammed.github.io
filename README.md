@@ -1,2 +1,2 @@
-# bissenkulalmukhammed.github.io
+# Бисенкул Альмухаммед
 My first public site
